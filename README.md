@@ -6,3 +6,5 @@ Control software for an Etch-A-Sketch using an Arduino and stepper motors, contr
 * config.ini - Example configuration file for irc3. Contains server and port information.
 * TwitchASketch.ino - Arduino sketch to control stepper motors.
 
+Copyright © James Lacey 2017. Redistribution and modification permitted under the terms of the GNU GPL V3. 
+
